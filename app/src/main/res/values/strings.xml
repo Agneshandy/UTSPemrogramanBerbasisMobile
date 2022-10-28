@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UTSMobile</string>
+    <string name="hasil_akhir">Hasil Akhir</string>
+    <string name="keliling_lingkaran">Keliling lingkaran =</string>
+    <string name="luas_lingkaran">Luas lingkaran =</string>
+    <string name="jari_jari">Jari-Jari :</string>
+    <string name="nama">Nama :</string>
+    <string name="nim">NIM :</string>
+    <string name="edNama">Nama :</string>
+    <string name="edNim">NIM :</string>
+    <string name="isilah_data_berikut">Isilah Data Berikut</string>
+    <string name="txthasil_akhir">Hasil Akhir</string>
+    <string name="txtjari_jari">Jari-Jari :</string>
+    <string name="txtNama">TextView</string>
+</resources>
